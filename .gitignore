@@ -1,0 +1,2 @@
+#don't upload .venv file to github
+.venv/
